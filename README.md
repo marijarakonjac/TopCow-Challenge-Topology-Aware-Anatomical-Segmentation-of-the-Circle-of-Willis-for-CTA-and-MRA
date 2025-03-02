@@ -15,11 +15,6 @@ In this work, we used the **UNet architecture**, which is an autoencoder-based n
 - **Dice coefficient:** Over **0.83** on the test set, indicating excellent segmentation performance.
 - **Target**: To accurately characterize the vascular structure by preserving both topological and geometric variability of the Circle of Willis.
 
-### Technologies Used:
-- **Deep Learning**: UNet architecture
-- **Metrics**: Dice coefficient
-- **Image Data**: 3D angiographic images from CT and MRI
-
 ### Acknowledgments:
 This project was developed as part of the Biomedical Image Analysis course at School of Electrical Engineering, University of Belgrade. Special thanks to the course instructor and the GrandChallenge platform for providing the TopCoW challenge data.
 This project was completed in collaboration with Marija Brkić.
